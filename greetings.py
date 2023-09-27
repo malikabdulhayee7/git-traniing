@@ -6,4 +6,6 @@ for i in range(10):
 # write hello world 10 times with a for loop
 for i in range(10):
     print("Hello World")
+
+    print("abdulhayee")
 # write hello world 10 times with a for loop
